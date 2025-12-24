@@ -15,7 +15,7 @@ const nextConfig = {
       "10.10.7.44",
       "206.162.244.188",
       "res.cloudinary.com",
-      "https://api.glassfile.xyz"
+      "api.glassfile.xyz"
  
     ],
   },
